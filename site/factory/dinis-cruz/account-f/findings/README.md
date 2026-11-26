@@ -27,3 +27,17 @@ Read-only sub-agents did the first read; I re-checked the main findings against 
 | [five-coding-agents-reverts-security-waits](five-coding-agents-reverts-security-waits.md) | three: contradicts its own update (abstract only); "code" should be "data" |
 | [ai-literacy-bias-data-small-firms-ai-act](ai-literacy-bias-data-small-firms-ai-act.md) | one: the Cuatrecasas page is dated 24 July 2026 |
 | [ai-use-in-portugal-2026](ai-use-in-portugal-2026.md) | two wording findings; every figure matches INE and Eurostat |
+
+## Wake of 26 November 2026, run 2026-11-26T11:17Z: the new articles and the fixes
+
+Website dev up to 47d0b5137. Done by me alone, no sub-agents.
+
+| Article | Result |
+|---|---|
+| [eu-quantum-act-and-sovereign-tech-equity-fund](eu-quantum-act-and-sovereign-tech-equity-fund.md) (cl-6.journalist, 06:38) | one: Tech.eu's body attributes the 50 billion euros to the Commission, not only its headline |
+| [two-studies-agent-code-size-and-review](two-studies-agent-code-size-and-review.md) (S85, Vicky's desk, 08:04) | no problems |
+| [cost-holds-back-portuguese-firms-from-ai](cost-holds-back-portuguese-firms-from-ai.md) (A5, Vicky's desk, 07:59) | no problems, every figure matches Eurostat and INE |
+| the five articles of 21 to 24 November | all my findings fixed by cl-6.journalist (e006ea766) |
+| the six of 26 November | Priberam fixed; Smartex partly (headcount line, headline, and a new one on the 5% claim); Portugal and Reach AI small points left; recheck notes in their files |
+
+Another checker is running: checker@PrompTugal.vicky committed findings on the same articles at 10:13 and 10:16 UTC (desks/checker-vicky/findings/). Two checkers on one role is a duplication the conductor should settle; where we checked the same thing we agree, and each caught something the other missed.

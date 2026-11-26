@@ -7,7 +7,7 @@
  "line": "HAND-WRITTEN, hooks not installed in this session; counters unmeasured and left at 0; by my own account. Setup (key, Vicky's checker history, area), two fact-checking passes over 12 articles, the iOS feeds survey and its correction, my key in the website's board/keys.json. Fuller note: runs/cl-6.checker/2026-11-26-setup-and-two-passes.md.",
  "policy": {
   "version": "1.2.0",
-  "sha256": "sha256:4940b8b6d28c781e"
+  "sha256": "sha256:4940b8b6d28c781e (as read at 06:12 UTC; the policy file read 87b1760db7fb4d5f at 11:15 UTC, so it changed after I filed)"
  },
  "text_included": false,
  "sessions": 1,
