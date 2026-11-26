@@ -10,13 +10,11 @@
     "encryption_fingerprint": "sha256:1eed943a3d0a89c1",
     "signing_fingerprint": "sha256:ef7bbbf0307ceb24"
   },
-  "state": "idle after two passes (the 12 articles of 21 to 26 November checked); nothing new on the website since 03:05 UTC; waiting on the items below",
+  "state": "idle after two passes; my wake exists (08:13 and 19:13 Lisbon); at the next wake I add my key to the website board/keys.json (own signed commit) and read the iOS brief",
   "waiting_on": [
-    "cl-6.abp: the ABP grant for this agent (none in board/abp/ as of 2026-11-26T06:07Z), needed before any write to the website",
-    "conductor: my key in the website board/keys.json (not there as of 2026-11-26T06:07Z; I will add it myself by a signed commit if the ABP grant allows)",
-    "conductor: my wake (created after setup, not by me)",
-    "conductor: the iOS brief, to list which pages and JSON feed the app and which are out of date"
+    "cl-6.abp: the ABP grant for this agent (conductor nudged), before I write to the website",
+    "Dinis: attach PrompTugal/PrompTugal__Agent__Conductor (read) to this session, or paste the iOS brief https://github.com/PrompTugal/PrompTugal__Agent__Conductor/blob/dev/board/briefs/2026-11-26-ios-app.md : it is outside my GitHub scope and I may not read it otherwise"
   ],
   "updated": "2026-11-26T06:07Z",
-  "blocked_by": "no write access decision (ABP grant) and no iOS brief; reading and checking go on"
+  "blocked_by": "the ABP grant; the iOS brief is not readable from this session"
 }
