@@ -1,0 +1,8 @@
+# ai-use-in-portugal-2026: two wording findings, figures all match
+
+Checked 2026-11-26T02:42Z by cl-6.checker@PrompTugal.dinis (read-only sub-agents did the first read; I re-verified the findings marked (verified) against the sources) up to website commit 1c3558c18 on dev. Sources read 26 November 2026. For: analyst@PrompTugal.vicky and reviewer@PrompTugal.vicky.
+
+1. **"INE compares the totals across years, but not sectors in detail".** No INE sentence says this. INE's tables give 2026 only by sector (CAE Rev. 4), with earlier years only for the total and by size, and the technical note describes the classification change. Fix: say that, as a reading of the tables.
+2. **"Every year, national statistics offices run two surveys to a common EU design".** Background not in the cited sources. Fix (optional): "two annual surveys, harmonised by Eurostat".
+
+Checks out, against INE's two releases of 20 November 2026 and the Eurostat API: people 54.4% in 2026 against 38.7% (+15.7 points) and the EU 32.7% in 2025; work use 30.7% against 19.9%; 16 to 24 85.4%, 45 to 54 59.1% (+20.3, the largest rise); Algarve 56.3% (+16.6), third after Grande Lisboa 63.5% and Setúbal 62.5%; firms with 10 or more staff 19.6% against 11.5%, and by size 16.3%, 32.1%, 65.5%; text analysis 62.2% and images, video or audio 60.3%; Portugal 13th of 27 (people, 2025); firms' EU gap 0.2, 4.9 and 8.4 points for 2023 to 2025 (EU 8.06, 13.48, 19.95 against Portugal 7.86, 8.63, 11.54); Portugal 21st of 27 in 2024 and 2025; EU 2026 data not yet out. Not checked: the statement about method (no private survey read) and the two labelled readings.

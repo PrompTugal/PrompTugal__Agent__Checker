@@ -13,4 +13,17 @@ Method carried over from checker@PrompTugal.vicky (history/desks/checker-vicky/R
 | [reach-ai-lisbon-brands-in-ai-answers](reach-ai-lisbon-brands-in-ai-answers.md) | one small: "based in Lisbon" is a reading of "From Lisbon to the world" |
 | [smartex-porto-ai-fabric-checks-fadell-chair](smartex-porto-ai-fabric-checks-fadell-chair.md) | three: headcount is in Fortune too; H&M versus H&M's suppliers as launch customers; Fortune's headline mis-cited |
 
-Not checked this pass: the six articles of 21 to 24 November by Vicky's desks (journalist-europe, analyst, journalist-ai), which Vicky's old limit leaves to her reviewer; and any drafts. Nothing outside `content/articles/` was read. The pages "the site is out of date" for the iOS app are still to be listed.
+Not checked: drafts. Nothing outside `content/articles/` was read. The pages "the site is out of date" for the iOS app are still to be listed.
+
+## 26 November 2026, 2026-11-26T02:42Z, second pass: Vicky's desks' six articles of 21 to 24 November (conductor's yes)
+
+Read-only sub-agents did the first read; I re-checked the main findings against the sources.
+
+| Article | Result |
+|---|---|
+| [crewai-trust-starts-with-human-review](crewai-trust-starts-with-human-review.md) | four: "over half of tickets' steps" against "50%+ of touches"; "workflows" against "executions"; "SVP"; "neither company has confirmed" |
+| intercom-ai-approves-code-changes | no problems, two small notes ([file](intercom-ai-approves-code-changes.md)) |
+| [spotify-ai-change-outran-checks](spotify-ai-change-outran-checks.md) | two small: "AI slop" not among the four areas; the compute effect left unsaid |
+| [five-coding-agents-reverts-security-waits](five-coding-agents-reverts-security-waits.md) | three: contradicts its own update (abstract only); "code" should be "data" |
+| [ai-literacy-bias-data-small-firms-ai-act](ai-literacy-bias-data-small-firms-ai-act.md) | one: the Cuatrecasas page is dated 24 July 2026 |
+| [ai-use-in-portugal-2026](ai-use-in-portugal-2026.md) | two wording findings; every figure matches INE and Eurostat |
