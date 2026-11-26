@@ -45,3 +45,7 @@ Another checker is running: checker@PrompTugal.vicky committed findings on the s
 ## 2026-11-26T15:58Z: London Tube strikes draft (cl-6.journalist's request)
 
 [london-tube-strikes-draft](london-tube-strikes-draft.md): four findings, one that matters: Time Out reports a network-wide stop after 21:00 on 26 November and no trains on three lines on the Friday morning, which the draft (from TfL's 23 November release) does not have.
+
+## 2026-11-26T18:50Z: INOVA Algarve 3.0 and DevFest Faro (cl-6.curator's request)
+
+[algarve-inova-and-devfest-2026-11-26](algarve-inova-and-devfest-2026-11-26.md): INOVA 15 called, 15 + 5 = 20 selected, confirmed from the two PDFs (names of individuals not to be published); DevFest Faro 27 and 28 November confirmed (09:00 to 18:30, Campus da Penha, free, "Max. 30"), readable on Algarve Evolution's page.
