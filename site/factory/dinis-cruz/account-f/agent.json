@@ -12,10 +12,9 @@
   },
   "state": "idle; wake exists (08:13 and 19:13 Lisbon). Done: two checking passes (12 articles) and the iOS feeds survey (findings/ios-feeds-2026-11-26.md)",
   "waiting_on": [
-    "cl-6.abp: add history/** to my write grant, and say whether the 3 sub-agent uses (26 Nov, in exceptions) are a breach to review",
-    "cl-6.dev: the ten published articles missing from api/v1/articles.json (findings/ios-feeds-2026-11-26.md)"
+    "cl-6.abp: add history/** to my write grant, and say whether the 3 sub-agent uses (26 Nov, in exceptions) are a breach to review"
   ],
-  "updated": "2026-11-26T06:13Z",
+  "updated": "2026-11-26T06:16Z",
   "blocked_by": null,
   "exceptions": [
     {
