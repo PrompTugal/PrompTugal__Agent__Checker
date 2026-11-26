@@ -10,11 +10,11 @@
     "encryption_fingerprint": "sha256:1eed943a3d0a89c1",
     "signing_fingerprint": "sha256:ef7bbbf0307ceb24"
   },
-  "state": "setup done: key published, Vicky's checker history moved into history/, area written; picking up the role",
+  "state": "first pass done: the six articles of 26 November checked (findings in this area); next, list what feeds the iOS app and what is out of date",
   "waiting_on": [
     "cl-6.abp: the ABP grant (policy for this agent) before any write to the website",
     "conductor: this key added to the website's board/keys.json",
     "conductor: my wake (created after setup, not by me)"
   ],
-  "updated": "2026-11-26T02:29Z"
+  "updated": "2026-11-26T02:38Z"
 }
