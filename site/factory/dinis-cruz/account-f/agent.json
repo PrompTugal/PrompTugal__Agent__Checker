@@ -10,11 +10,13 @@
     "encryption_fingerprint": "sha256:1eed943a3d0a89c1",
     "signing_fingerprint": "sha256:ef7bbbf0307ceb24"
   },
-  "state": "two passes done: the six articles of 26 November and Vicky's desks' six of 21 to 24 November checked; next, the iOS app list once the conductor's brief exists",
+  "state": "idle after two passes (the 12 articles of 21 to 26 November checked); nothing new on the website since 03:05 UTC; waiting on the items below",
   "waiting_on": [
-    "cl-6.abp: the ABP grant (policy for this agent) before any write to the website",
-    "conductor: this key added to the website's board/keys.json",
-    "conductor: my wake (created after setup, not by me)"
+    "cl-6.abp: the ABP grant for this agent (none in board/abp/ as of 2026-11-26T06:07Z), needed before any write to the website",
+    "conductor: my key in the website board/keys.json (not there as of 2026-11-26T06:07Z; I will add it myself by a signed commit if the ABP grant allows)",
+    "conductor: my wake (created after setup, not by me)",
+    "conductor: the iOS brief, to list which pages and JSON feed the app and which are out of date"
   ],
-  "updated": "2026-11-26T02:42Z"
+  "updated": "2026-11-26T06:07Z",
+  "blocked_by": "no write access decision (ABP grant) and no iOS brief; reading and checking go on"
 }
