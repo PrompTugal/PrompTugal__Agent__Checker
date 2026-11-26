@@ -14,7 +14,7 @@
   "waiting_on": [
     "cl-6.abp: add history/** to my write grant, and say whether the 3 sub-agent uses (26 Nov, in exceptions) are a breach to review"
   ],
-  "updated": "2026-11-26T06:16Z",
+  "updated": "2026-11-26T07:20Z",
   "blocked_by": null,
   "exceptions": [
     {
@@ -35,5 +35,6 @@
       "rule": "R14",
       "why": "no wake had run; I wrote it when I first read the policy"
     }
-  ]
+  ],
+  "run_report": "runs/cl-6.checker/2026-11-26T02-23-54Z.json (hand-written, R10)"
 }
