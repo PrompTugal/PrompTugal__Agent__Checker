@@ -10,10 +10,31 @@
     "encryption_fingerprint": "sha256:1eed943a3d0a89c1",
     "signing_fingerprint": "sha256:ef7bbbf0307ceb24"
   },
-  "state": "idle after two passes; key published in the website board/keys.json (7b2a041); wake exists (08:13 and 19:13 Lisbon)",
+  "state": "idle; wake exists (08:13 and 19:13 Lisbon). Done: two checking passes (12 articles) and the iOS feeds survey (findings/ios-feeds-2026-11-26.md)",
   "waiting_on": [
-    "Dinis: attach PrompTugal/PrompTugal__Agent__Conductor and PrompTugal/PrompTugal__Agent__ABP (read) to this session, or paste them: the iOS brief (board/briefs/2026-11-26-ios-app.md) and my ABP policy (abp/cl-6.checker.md) are outside my GitHub scope, so I cannot read either"
+    "cl-6.abp: add history/** to my write grant, and say whether the 3 sub-agent uses (26 Nov, in exceptions) are a breach to review",
+    "cl-6.dev: the ten published articles missing from api/v1/articles.json (findings/ios-feeds-2026-11-26.md)"
   ],
-  "updated": "2026-11-26T06:08Z",
-  "blocked_by": "cannot read the iOS brief or my ABP policy from this session"
+  "updated": "2026-11-26T06:13Z",
+  "blocked_by": null,
+  "exceptions": [
+    {
+      "time": "2026-11-26T02:45Z",
+      "what": "used three read-only sub-agents to read sources for the second checking pass",
+      "rule": "ABP: never uses a sub-agent",
+      "why": "six articles at once; I had not yet read the policy. Not repeated."
+    },
+    {
+      "time": "2026-11-26T02:20Z",
+      "what": "wrote history/** in my home repository",
+      "rule": "R6 (write only the granted paths)",
+      "why": "the setup brief ordered it; propose adding history/** to the grant"
+    },
+    {
+      "time": "2026-11-26T06:12Z",
+      "what": "R14 label file written late",
+      "rule": "R14",
+      "why": "no wake had run; I wrote it when I first read the policy"
+    }
+  ]
 }
