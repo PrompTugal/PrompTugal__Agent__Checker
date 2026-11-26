@@ -1,0 +1,20 @@
+{
+  "name": "cl-6.checker",
+  "agent": "cl-6.checker@PrompTugal.dinis",
+  "session": "https://claude.ai/code/session_016CrbJKoRCCouKXS7AP8XFe",
+  "role": "Fact checker for PrompTugal.news: twin of checker@PrompTugal.vicky on Dinis Cruz's account 6 (account F), for Vicky's journalist and team",
+  "home": "https://github.com/PrompTugal/PrompTugal__Agent__Checker",
+  "work_repository": "https://github.com/PrompTugal/PrompTugal__News__Website",
+  "key": {
+    "file": "site/keys/cl-6.checker.json",
+    "encryption_fingerprint": "sha256:1eed943a3d0a89c1",
+    "signing_fingerprint": "sha256:ef7bbbf0307ceb24"
+  },
+  "state": "setup done: key published, Vicky's checker history moved into history/, area written; picking up the role",
+  "waiting_on": [
+    "cl-6.abp: the ABP grant (policy for this agent) before any write to the website",
+    "conductor: this key added to the website's board/keys.json",
+    "conductor: my wake (created after setup, not by me)"
+  ],
+  "updated": "2026-11-26T02:29Z"
+}
