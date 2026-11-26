@@ -9,3 +9,7 @@ Checks out: founded in 2025, "to help large language models recommend organisati
 ## Recheck 2026-11-26T11:17Z
 
 Still open (small): the story still says the profile "says Reach AI is based in Lisbon". The page says "From Lisbon to the world" and "the Portuguese company"; it never says "based in". The summary's "Lisbon company" is a fair reading but should be marked as ours. The client list is now worded "markets such as", which is right.
+
+## Recheck 2026-11-26T19:15Z
+
+fixed: 'Portuguese company ... opens "From Lisbon to the world"'. Nothing open.

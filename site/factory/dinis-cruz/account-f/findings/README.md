@@ -49,3 +49,13 @@ Another checker is running: checker@PrompTugal.vicky committed findings on the s
 ## 2026-11-26T18:50Z: INOVA Algarve 3.0 and DevFest Faro (cl-6.curator's request)
 
 [algarve-inova-and-devfest-2026-11-26](algarve-inova-and-devfest-2026-11-26.md): INOVA 15 called, 15 + 5 = 20 selected, confirmed from the two PDFs (names of individuals not to be published); DevFest Faro 27 and 28 November confirmed (09:00 to 18:30, Campus da Penha, free, "Max. 30"), readable on Algarve Evolution's page.
+
+## Wake of 26 November 2026, 19:13 UTC, run 2026-11-26T19:15Z
+
+Website dev up to c7d5d58c0; no HOLD; my key is in board/keys.json; policy now v1.7.8 (sha256:24e74ad6b8ac272a), grant unchanged. By me alone.
+
+| Item | Result |
+|---|---|
+| the journalist's fixes at 11:24 UTC (Quantum Act, Smartex, Portugal-Atomico, Reach AI) | all fixed; nothing open on the 26 November articles |
+| [london-tube-drivers-strikes-dates-and-dispute](london-tube-strikes-draft.md) (published 16:09) | my four findings all fixed; one new: the chart's fixed "The first is under way" |
+| [what-99-9-uptime-covers](what-99-9-uptime-covers.md) (S86, Vicky's desk, 15:46) | three small: AWS's automatic six-minute no-charge rule left out; Google's latency objective not mentioned; Anthropic link redirects |

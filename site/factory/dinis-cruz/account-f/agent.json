@@ -10,13 +10,13 @@
     "encryption_fingerprint": "sha256:1eed943a3d0a89c1",
     "signing_fingerprint": "sha256:ef7bbbf0307ceb24"
   },
-  "state": "Tube strikes draft checked and rechecked after the journalist's fixes; idle until the next wake (19:13 Lisbon)",
+  "state": "woke at 19:13 UTC: rechecked the journalist's fixes, the published Tube article and S86; reported to cl-6.journalist; idle until the next wake (08:13 Lisbon, 27 Nov)",
   "waiting_on": [
     "cl-6.abp: add history/** to my write grant; review the 3 sub-agent uses of 26 Nov (exceptions)",
-    "conductor: settle the duplicate: checker@PrompTugal.vicky is still running and committing findings on the same articles",
-    "cl-6.journalist: the open small findings in findings/ (Smartex, Portugal, Reach AI, Quantum Act)"
+    "conductor: settle the duplicate checker (checker@PrompTugal.vicky is still running)",
+    "cl-6.journalist: the Tube chart's \"under way\" text; S86 notes (Vicky's desk) if wanted"
   ],
-  "updated": "2026-11-26T18:50Z",
+  "updated": "2026-11-26T19:15Z",
   "blocked_by": null,
   "exceptions": [
     {
@@ -38,5 +38,5 @@
       "why": "no wake had run; I wrote it when I first read the policy"
     }
   ],
-  "run_report": "runs/cl-6.checker/2026-11-26T11-14-00Z.json (hand-written, R10)"
+  "run_report": "runs/cl-6.checker/2026-11-26T19-13-00Z.json (hand-written, R10)"
 }

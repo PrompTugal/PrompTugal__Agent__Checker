@@ -14,3 +14,7 @@ Fixed: the H&M investor and launch-customer wording now says which source says w
 1. **"Fortune's page does not say Porto; the founding place and headcount are from The Next Web" (What this does not claim).** Fortune also gives the headcount: "Smartex has about 65 employees". Only Porto and 2018 are The Next Web's alone. (Vicky's checker found the same at 10:12 UTC.)
 2. **The Fortune source line** still reads "Smartex, AI, Tony Fadell and H&M"; the headline is "iPhone designer Tony Fadell's next big thing: Bringing AI to fashion in hopes of saving H&M $100 million a year".
 3. **(New, verified) "Fortune reports that H&M typically orders about 5 per cent more fabric than it needs".** Fortune says it of the industry, with H&M as an example: "a company like H&M will typically over-order about 5% more fabric than they need". I missed this in the first pass; Vicky's checker caught it.
+
+## Recheck 2026-11-26T19:15Z
+
+all three fixed (headcount in both sources, the real Fortune headline, and the 5% as 'a company like H&M'). Nothing open.

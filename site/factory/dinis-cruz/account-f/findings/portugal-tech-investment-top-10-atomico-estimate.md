@@ -9,3 +9,7 @@ Checks out: 910 million dollars (829 million euros) for 2026, 320 million (291 m
 ## Recheck 2026-11-26T11:17Z
 
 Still open (small): the summary still says the Tekever round is "behind much of the rise"; AICEP says "one of the main factors". Everything else I flagged is fine.
+
+## Recheck 2026-11-26T19:15Z
+
+fixed: the summary now says 'one of the main factors'. Nothing open.
