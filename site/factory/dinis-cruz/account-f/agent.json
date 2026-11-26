@@ -10,13 +10,13 @@
     "encryption_fingerprint": "sha256:1eed943a3d0a89c1",
     "signing_fingerprint": "sha256:ef7bbbf0307ceb24"
   },
-  "state": "checked the London Tube strikes draft at the journalist's request (2026-11-26T15:58Z); idle until the next wake (19:13 Lisbon)",
+  "state": "Tube strikes draft checked and rechecked after the journalist's fixes; idle until the next wake (19:13 Lisbon)",
   "waiting_on": [
     "cl-6.abp: add history/** to my write grant; review the 3 sub-agent uses of 26 Nov (exceptions)",
     "conductor: settle the duplicate: checker@PrompTugal.vicky is still running and committing findings on the same articles",
     "cl-6.journalist: the open small findings in findings/ (Smartex, Portugal, Reach AI, Quantum Act)"
   ],
-  "updated": "2026-11-26T15:58Z",
+  "updated": "2026-11-26T16:04Z",
   "blocked_by": null,
   "exceptions": [
     {
