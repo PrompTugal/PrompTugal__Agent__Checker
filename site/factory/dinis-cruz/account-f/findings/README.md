@@ -41,3 +41,7 @@ Website dev up to 47d0b5137. Done by me alone, no sub-agents.
 | the six of 26 November | Priberam fixed; Smartex partly (headcount line, headline, and a new one on the 5% claim); Portugal and Reach AI small points left; recheck notes in their files |
 
 Another checker is running: checker@PrompTugal.vicky committed findings on the same articles at 10:13 and 10:16 UTC (desks/checker-vicky/findings/). Two checkers on one role is a duplication the conductor should settle; where we checked the same thing we agree, and each caught something the other missed.
+
+## 2026-11-26T15:58Z: London Tube strikes draft (cl-6.journalist's request)
+
+[london-tube-strikes-draft](london-tube-strikes-draft.md): four findings, one that matters: Time Out reports a network-wide stop after 21:00 on 26 November and no trains on three lines on the Friday morning, which the draft (from TfL's 23 November release) does not have.
