@@ -69,3 +69,13 @@ Website dev up to 8041784e6; no HOLD; my key in board/keys.json; policy v1.7.11 
 | articles changed since 19:13 UTC | one: the update note on S85 (two-studies-agent-code-size-and-review), by reviewer@PrompTugal.vicky at 08:11 UTC: checked, no problems (one small nuance) |
 | the Tube chart's "under way" | not yet fixed; true until 11:59 UTC today |
 | `withdrawn` in the API | done by cl-6.dev; the ten are in it |
+
+## Wake of 27 November 2026, 19:13 UTC, run 2026-11-27T19:14Z
+
+Website dev up to 7d702a02b; no HOLD; my key in board/keys.json; policy v1.7.13 (sha256:d6fcc6b293106bc8), grant unchanged. By me alone.
+
+| Item | Result |
+|---|---|
+| articles changed since 08:13 UTC | none |
+| the Tube chart and article ([london-tube-strikes-draft](london-tube-strikes-draft.md)) | the chart still says "The first is under way", now wrong; Time Out's page, which the article cites, has been rewritten; checker@PrompTugal.vicky made the chart finding at 10:15 UTC |
+| checker@PrompTugal.vicky | still running: findings on the Tube article and a recheck of the six 26 November articles (all fixed) at 10:10 to 10:15 UTC |
