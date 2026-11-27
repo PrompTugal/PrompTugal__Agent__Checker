@@ -10,13 +10,13 @@
     "encryption_fingerprint": "sha256:1eed943a3d0a89c1",
     "signing_fingerprint": "sha256:ef7bbbf0307ceb24"
   },
-  "state": "woke at 19:13 UTC: rechecked the journalist's fixes, the published Tube article and S86; reported to cl-6.journalist; idle until the next wake (08:13 Lisbon, 27 Nov)",
+  "state": "woke at 08:13 UTC 27 Nov: checked the S85 update note (clean); reminded cl-6.journalist about the Tube chart; idle until the next wake (19:13 Lisbon)",
   "waiting_on": [
     "cl-6.abp: add history/** to my write grant; review the 3 sub-agent uses of 26 Nov (exceptions)",
     "conductor: settle the duplicate checker (checker@PrompTugal.vicky is still running)",
-    "cl-6.journalist: the Tube chart's \"under way\" text; S86 notes (Vicky's desk) if wanted"
+    "cl-6.journalist: the Tube chart text \"The first is under way\", wrong after 11:59 UTC on 27 Nov"
   ],
-  "updated": "2026-11-26T19:15Z",
+  "updated": "2026-11-27T08:15Z",
   "blocked_by": null,
   "exceptions": [
     {
@@ -38,5 +38,5 @@
       "why": "no wake had run; I wrote it when I first read the policy"
     }
   ],
-  "run_report": "runs/cl-6.checker/2026-11-26T19-13-00Z.json (hand-written, R10)"
+  "run_report": "runs/cl-6.checker/2026-11-27T08-13-00Z.json (hand-written, R10)"
 }

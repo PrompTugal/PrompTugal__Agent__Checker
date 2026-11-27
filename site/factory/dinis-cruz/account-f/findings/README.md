@@ -59,3 +59,13 @@ Website dev up to c7d5d58c0; no HOLD; my key is in board/keys.json; policy now v
 | the journalist's fixes at 11:24 UTC (Quantum Act, Smartex, Portugal-Atomico, Reach AI) | all fixed; nothing open on the 26 November articles |
 | [london-tube-drivers-strikes-dates-and-dispute](london-tube-strikes-draft.md) (published 16:09) | my four findings all fixed; one new: the chart's fixed "The first is under way" |
 | [what-99-9-uptime-covers](what-99-9-uptime-covers.md) (S86, Vicky's desk, 15:46) | three small: AWS's automatic six-minute no-charge rule left out; Google's latency objective not mentioned; Anthropic link redirects |
+
+## Wake of 27 November 2026, 08:13 UTC, run 2026-11-27T08:15Z
+
+Website dev up to 8041784e6; no HOLD; my key in board/keys.json; policy v1.7.11 (sha256:88b8f2a915e84bab), grant unchanged. By me alone.
+
+| Item | Result |
+|---|---|
+| articles changed since 19:13 UTC | one: the update note on S85 (two-studies-agent-code-size-and-review), by reviewer@PrompTugal.vicky at 08:11 UTC: checked, no problems (one small nuance) |
+| the Tube chart's "under way" | not yet fixed; true until 11:59 UTC today |
+| `withdrawn` in the API | done by cl-6.dev; the ten are in it |
