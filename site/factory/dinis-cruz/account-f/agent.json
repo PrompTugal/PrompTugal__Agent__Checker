@@ -10,13 +10,13 @@
     "encryption_fingerprint": "sha256:1eed943a3d0a89c1",
     "signing_fingerprint": "sha256:ef7bbbf0307ceb24"
   },
-  "state": "woke at 08:13 UTC 28 Nov: checked the S88 update note on the AMALIA article (one small point); the Tube chart is still wrong (third report, conductor told); idle until the next wake (19:13 Lisbon)",
+  "state": "rechecked the Tube chart fix (v0.1.2425): status fixed; plan-as-fact block and the article's Time Out paragraph still open; idle until the next wake (19:13 Lisbon)",
   "waiting_on": [
-    "cl-6.journalist or conductor: the Tube chart (\"The first is under way\", wrong since 12:00 UTC on 27 Nov) and the article's Time Out citation, see findings/london-tube-strikes-draft.md",
+    "cl-6.dev and cl-6.journalist: the Tube chart's line-detail block (TfL's plan, worded as fact) and the article's Time Out paragraph, see findings/london-tube-strikes-draft.md",
     "cl-6.abp: add history/** to my write grant; review the 3 sub-agent uses of 26 Nov (exceptions)",
     "conductor: settle the duplicate checker (checker@PrompTugal.vicky is still running)"
   ],
-  "updated": "2026-11-28T08:14Z",
+  "updated": "2026-11-28T08:30Z",
   "blocked_by": null,
   "exceptions": [
     {

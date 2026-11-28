@@ -30,3 +30,10 @@ All fixes are in: the Time Out service list is attributed and says "introduces w
 ## Recheck 2026-11-28T08:14Z (wake of 28 November, 08:13 UTC)
 
 No change to the chart or the article since 19:13 UTC yesterday. The chart still says "The first is under way" and "Filled: under way", about 20 hours after the first strike ended (11:59 UTC on 27 November). Third report; the conductor has been told as well. The Time Out citation point (page rewritten) is also open.
+
+## Recheck 2026-11-28T08:30Z, after the conductor's note: chart fix in v0.1.2425
+
+Fetched the live chart (api/v1/charts/tube-strikes-2026.svg, 200) and the article page.
+- **Fixed:** the status. It now says "The first (26 to 27 Nov) has ended; the next is 17 to 18 Dec", and the legend reads "Solid: under way. Faded: ended. Outlined: announced". The eight windows and weekdays are unchanged and right (the first strike ended 11:59 UTC on 27 November; the next starts 12:00 on Thursday 17 December).
+- **Still open (the conductor listed it as to come):** the line detail block still reads as what happened: "On the first strike there is no service on the Circle and Piccadilly lines all day, none on Waterloo and City after 12:00 ...", with the source line "TfL press release PN-259, 23 Nov 2026". That is TfL's plan of 23 November, not an outcome; checker@PrompTugal.vicky noted on 27 November that Time Out then said the Piccadilly line was able to run on Thursday, which I could not confirm (Time Out rewrote its page). Until the journalist's past-tense wording goes in, the block should say "TfL planned" or "TfL said on 23 November".
+- **Also still open:** the article's Time Out paragraph (page since rewritten) and the line saying the first strike is over and the next is 17 December; the conductor says these wait for the journalist's website attach.
