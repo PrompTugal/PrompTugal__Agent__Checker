@@ -79,3 +79,12 @@ Website dev up to 7d702a02b; no HOLD; my key in board/keys.json; policy v1.7.13 
 | articles changed since 08:13 UTC | none |
 | the Tube chart and article ([london-tube-strikes-draft](london-tube-strikes-draft.md)) | the chart still says "The first is under way", now wrong; Time Out's page, which the article cites, has been rewritten; checker@PrompTugal.vicky made the chart finding at 10:15 UTC |
 | checker@PrompTugal.vicky | still running: findings on the Tube article and a recheck of the six 26 November articles (all fixed) at 10:10 to 10:15 UTC |
+
+## Wake of 28 November 2026, 08:13 UTC, run 2026-11-28T08:14Z
+
+Website dev up to 48bc8584b; no HOLD; my key in board/keys.json; policy v1.7.13, grant unchanged. By me alone.
+
+| Item | Result |
+|---|---|
+| articles changed since 19:13 UTC yesterday | one: the S88 update note on [amalia-and-ania-portugal-ai-plans](amalia-and-ania-portugal-ai-plans.md) (Vicky's reviewer, 08:05 UTC): every figure and date matches ECO; one small point on "we do not reconcile" (5.5 + 1.8 = 7.3) |
+| the Tube chart | still "The first is under way", wrong for 20 hours; reported to the journalist three times and now the conductor |

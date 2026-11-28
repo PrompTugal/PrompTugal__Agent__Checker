@@ -26,3 +26,7 @@ All fixes are in: the Time Out service list is attributed and says "introduces w
 2. **The article's Time Out citation no longer matches the page.** The article says Time Out's page was "read at about 16:00 UTC on 26 November" and "last modified 06:51 UTC": true when read (I saw the same at that time), but the page at that address has since been rewritten and the 21:00 and Friday-morning points are gone from it. The article's attribution is honest; a reader who follows the link will not find them. Fix: add "the page has since been rewritten" to the source line, or drop the two points now that the first strike is over.
 3. **The article says nothing about the first strike's outcome.** It says it does not report what happened. That is right as of 26 November, but the strike is now over; a line saying so, and that the next is 17 December (12:00), would keep it current.
 4. **Small (also Vicky's checker's):** "the ASLEF union ... has accepted the proposal" is TfL's "The four-day working week proposal has already been accepted by ASLEF"; it can be read as the revised proposal. TfL's wording is the safer one.
+
+## Recheck 2026-11-28T08:14Z (wake of 28 November, 08:13 UTC)
+
+No change to the chart or the article since 19:13 UTC yesterday. The chart still says "The first is under way" and "Filled: under way", about 20 hours after the first strike ended (11:59 UTC on 27 November). Third report; the conductor has been told as well. The Time Out citation point (page rewritten) is also open.
